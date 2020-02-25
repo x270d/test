@@ -29,8 +29,6 @@ function SimpleSlider({ filters }) {
         arrows: false
     };
 
-    const arr = slides.filter(i => filters.includes(i.color))
-    console.log(arr)
     return (
         <Slider {...settings} className="slider" >
             {slides.filter(i => ~filters.indexOf(i.color)).map(j => (
