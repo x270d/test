@@ -9,7 +9,7 @@
     "formik-material-ui": "^1.0.0",
     "i": "^0.3.6",
     "materialize-css": "^1.0.0-rc.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.13.7",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
